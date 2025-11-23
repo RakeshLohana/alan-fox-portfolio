@@ -1,0 +1,73 @@
+[
+  {
+    "name": "Esimate Up",
+    "desc": "MERN Stack website to get the estimation of software development project's estimation",
+    "image": "estimateUp",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Consingment Tracking System",
+    "desc": "Banking site used the track the consignments.",
+    "image": "consignment_tracking",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Construction Site",
+    "desc": "Site developed for the constructors ",
+    "image": "construction",
+    "category": "wordpress",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Weather app",
+    "desc": "Mern stack website to predict the weather using weather api.",
+    "image": "weather_app",
+    "category": "react",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Ecommerce Website",
+    "desc": "Developed an e-commerce platform specializing in the sale of technology products, including mobile phones, gaming peripherals, and electronics.",
+    "image": "ecommerce",
+    "category": "wordpress",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Ecommerce site for fashion",
+    "desc": "Developed a full-featured Fashion e-commerce application using Flutter and Firebase.",
+    "image": "ecommerce2",
+    "category": "wordpress",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Production Camera and Recording Equipment site",
+    "desc": "A French e-commerce website dedicated to selling professional video production and recording equipment, including cameras, audio gear, and lighting.",
+    "image": "ecommerce3",
+    "category": "wordpress",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+
+]
