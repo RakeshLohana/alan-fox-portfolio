@@ -1,69 +1,49 @@
 [
   {
-    "name": "Esimate Up",
-    "desc": "MERN Stack website to get the estimation of software development project's estimation",
-    "image": "estimateUp",
-    "category": "mern",
+    "name": "CI/CD Pipeline",
+    "desc": "Built a production-grade CI/CD pipeline to deploy 8 microservices automatically to a Kubernetes cluster.",
+    "image": "cicd",
+    "category": "cicd",
     "links": {
       "view": "#",
       "code": "#"
     }
   },
   {
-    "name": "Consingment Tracking System",
-    "desc": "Banking site used the track the consignments.",
-    "image": "consignment_tracking",
-    "category": "mern",
+    "name": "Infrastructure as Code",
+    "desc": "Created fully automated cloud infrastructure using Terraform",
+    "image": "infra",
+    "category": "infra",
     "links": {
       "view": "#",
       "code": "#"
     }
   },
   {
-    "name": "Construction Site",
-    "desc": "Site developed for the constructors ",
-    "image": "construction",
-    "category": "wordpress",
+    "name": "Monitoring & Logging Stack",
+    "desc": "Implemented end-to-end observability stack",
+    "image": "monitoring",
+    "category": "monitoring",
     "links": {
       "view": "#",
       "code": "#"
     }
   },
   {
-    "name": "Weather app",
-    "desc": "Mern stack website to predict the weather using weather api.",
-    "image": "weather_app",
-    "category": "react",
+    "name": "Zero-Downtime Deployment System",
+    "desc": "Built a zero-downtime deployment solution for a Node.js API using:",
+    "image": "downtime",
+    "category": "downtime",
     "links": {
       "view": "#",
       "code": "#"
     }
   },
   {
-    "name": "Ecommerce Website",
-    "desc": "Developed an e-commerce platform specializing in the sale of technology products, including mobile phones, gaming peripherals, and electronics.",
-    "image": "ecommerce",
-    "category": "wordpress",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Ecommerce site for fashion",
-    "desc": "Developed a full-featured Fashion e-commerce application using Flutter and Firebase.",
-    "image": "ecommerce2",
-    "category": "wordpress",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Production Camera and Recording Equipment site",
-    "desc": "A French e-commerce website dedicated to selling professional video production and recording equipment, including cameras, audio gear, and lighting.",
-    "image": "ecommerce3",
-    "category": "wordpress",
+    "name": "Cloud Migration Project ",
+    "desc": "Migrated legacy system to AWS",
+    "image": "cloudmigration",
+    "category": "cloudmigration",
     "links": {
       "view": "#",
       "code": "#"
